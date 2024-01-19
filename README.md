@@ -1,6 +1,6 @@
-# Recording Skill
+# Audio Recording Skill
 
-Record audio to file
+Record audio to file, requires [ovos-dinkum-listener](https://github.com/OpenVoiceOS/ovos-dinkum-listener)
 
 ## About
 
@@ -14,7 +14,7 @@ when started via this skill a audio recording will time out after 4 minutes (max
 
 if a `mycroft.stop` bus message is emitted (eg, "stop" via cli) the skill will take dinkum out of recording mode if recording was initiated by this skill
 
-TODO: dinkum should have a native (optional) timeout setting, using VAD to automatically stop recording after X seconds of silence
+**TODO**: dinkum should have a native (optional) timeout setting, using VAD to automatically stop recording after X seconds of silence
 
 
 ## Examples
@@ -23,3 +23,6 @@ TODO: dinkum should have a native (optional) timeout setting, using VAD to autom
 - "start recording"
 - "new recording named {file_name}"
 
+## Credits
+
+[NeonGecko](https://github.com/NeonGeckoCom/skill-audio-recording)

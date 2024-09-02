@@ -1,5 +1,9 @@
 # Changelog
 
+## [V0.1.0a3](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/V0.1.0a3) (2024-09-02)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/V0.1.0a2...V0.1.0a3)
+
 ## [V0.1.0a2](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/V0.1.0a2) (2024-09-02)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/V0.0.1a2...V0.1.0a2)

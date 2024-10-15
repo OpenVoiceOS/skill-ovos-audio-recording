@@ -1,11 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/HEAD)
+## [0.2.2a1](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/0.2.2a1) (2024-10-15)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/V0.1.0...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/V0.1.0...0.2.2a1)
 
 **Merged pull requests:**
 
+- fix:long description [\#4](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/pull/4) ([JarbasAl](https://github.com/JarbasAl))
 - fix:update\_requirements [\#3](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/pull/3) ([JarbasAl](https://github.com/JarbasAl))
 
 

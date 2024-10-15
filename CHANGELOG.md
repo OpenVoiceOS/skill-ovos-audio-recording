@@ -1,24 +1,13 @@
 # Changelog
 
-## [V0.1.0a3](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/V0.1.0a3) (2024-09-02)
+## [0.2.2a1](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/0.2.2a1) (2024-10-15)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/V0.1.0a2...V0.1.0a3)
-
-## [V0.1.0a2](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/V0.1.0a2) (2024-09-02)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/V0.0.1a2...V0.1.0a2)
-
-**Closed issues:**
-
-- \[FEAT\] Publish skill to PyPi [\#1](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/issues/1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/V0.1.0...0.2.2a1)
 
 **Merged pull requests:**
 
-- pt-pt/translate-intents [\#2](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/pull/2) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
-
-## [V0.0.1a2](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/V0.0.1a2) (2024-05-15)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/b56b43da1f3612396ce89979f480eff89d1484a6...V0.0.1a2)
+- fix:long description [\#4](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/pull/4) ([JarbasAl](https://github.com/JarbasAl))
+- fix:update\_requirements [\#3](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/pull/3) ([JarbasAl](https://github.com/JarbasAl))
 
 
 

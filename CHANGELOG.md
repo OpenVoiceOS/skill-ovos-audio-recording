@@ -1,20 +1,12 @@
 # Changelog
 
-## [0.2.3a1](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/0.2.3a1) (2024-10-18)
+## [0.2.3a2](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/0.2.3a2) (2024-11-17)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/V0.2.2...0.2.3a1)
-
-**Closed issues:**
-
-- Failed to stop skill: skill-ovos-audio-recording.openvoiceos: 'AudioRecordingSkill' object has no attribute 'recording' [\#6](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/issues/6)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/0.2.3...0.2.3a2)
 
 **Merged pull requests:**
 
-- fix:stop [\#7](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/pull/7) ([JarbasAl](https://github.com/JarbasAl))
-
-## [V0.2.2](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/V0.2.2) (2024-10-15)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/0.2.2...V0.2.2)
+- fix: skilljson [\#11](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/pull/11) ([JarbasAl](https://github.com/JarbasAl))
 
 
 

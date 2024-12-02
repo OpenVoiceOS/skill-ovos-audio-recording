@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.2.5a3](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/0.2.5a3) (2024-12-02)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/0.2.5a2...0.2.5a3)
+
+**Merged pull requests:**
+
+- import galician translations [\#18](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/pull/18) ([JarbasAl](https://github.com/JarbasAl))
+- de-de/translate [\#17](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/pull/17) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+
+## [0.2.5a2](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/0.2.5a2) (2024-11-25)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/0.2.5a1...0.2.5a2)
+
 ## [0.2.5a1](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/0.2.5a1) (2024-11-25)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/V0.2.4...0.2.5a1)

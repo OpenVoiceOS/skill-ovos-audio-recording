@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.5a7](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/0.2.5a7) (2025-01-27)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/0.2.5a6...0.2.5a7)
+
+**Merged pull requests:**
+
+- fix:catalan intents punctuation [\#24](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/pull/24) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.2.5a6](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/tree/0.2.5a6) (2025-01-25)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-audio-recording/compare/0.2.5a5...0.2.5a6)

@@ -17,7 +17,7 @@ comença a (enregistrar|gravar) (com a|amb nom|amb el nom|amb es nom) {name}
 comença a (enregistrar|gravar) (si us plau|sisplau|per favor)
 comença a (enregistrar|gravar), (si us plau|sisplau|per favor), (amb nom|amb el nom|amb es nom) {name}
 comença a (gravar|enregistrar)
-comença a (gravar|enregistrar) (l'|s')àudio (sisplau|si us plau)
+comença a (gravar|enregistrar) (l'|s'|)àudio (sisplau|si us plau)
 comença a (gravar|enregistrar) amb nom {name}
 comença a (gravar|enregistrar) ara amb (el|es|) nom {name}
 comença a (gravar|enregistrar) immediatament com a {name}

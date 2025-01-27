@@ -64,7 +64,7 @@
     "(comença|inicia) l'operació (de gravació|d'enregistrament) (d'àudio|de so)",
     "(comença|inicia) l'operació (de gravació|d'enregistrament) (de so|d'àudio) com a {name}",
     "(comença|inicia) l'operació (de gravació|d'enregistrament) d'àudio anomenada {name}",
-    "comença a (gravar|enregistrar) (l'|s')àudio (sisplau|si us plau)",
+    "comença a (gravar|enregistrar) (l'|s'|)àudio (sisplau|si us plau)",
     "(inicia|comença) (la gravació|l'enregistrament) d'àudio com a {name}",
     "(inicia|comença) (la gravació|sa gravació|l'enregistrament|s'enregistrament) d'àudio, (si us plau|sisplau), (amb nom|anomena) {name}",
     "comença a (gravar|enregistrar)",
